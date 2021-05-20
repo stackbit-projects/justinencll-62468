@@ -8,11 +8,11 @@ sections:
     background_image: images/header.jpg
     background_image_opacity: 65
     content: |
-      # **justinencll✨ **
+      # justinencll✨ 
 
       **mode - lifestyle - beauty**
 
-      ## Créatrice de contenus Rouen - 4k ✨✨
+      ## Créatrice de contenus Rouen - 4k ✨
     actions:
       - title: See all items
         url: /store
