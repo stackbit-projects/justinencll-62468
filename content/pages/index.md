@@ -14,7 +14,7 @@ sections:
 
       ## Créatrice de contenus Rouen - 4k ✨
     actions:
-      - title: See all items
+      - title: Ma page Instagram
         url: /store
         arrow: true
         style: primary
